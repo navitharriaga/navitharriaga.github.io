@@ -1,3 +1,13 @@
+body{
+    background-color: whitesmoke;
+    margin: auto;
+}
+
+.texto{
+    text-align: justify;
+    margin: 5%;
+}
+
 .text-body-emphasis{
     background-color: rgb(232, 232, 232);
 }
@@ -9,4 +19,8 @@
 #reseña{
     text-align: center;
     background-color: rgb(232, 232, 232);
+}
+.tabla{
+    font-style: italic;
+    font-weight: 700;
 }
