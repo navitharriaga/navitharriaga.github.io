@@ -1,37 +1,47 @@
 body{
-    background-color: whitesmoke;
+    background-color: rgb(240,246,249);
     margin: 1%;
-    
+}
+header{
+    background-color: rgb(173, 216, 230,0.5);
 }
 .texto{
     text-align: justify;
     line-height: 1.5;
-    margin: 5%;
-    padding: 1%;
-}
-.text-body-emphasis{
-    background-color: rgb(232, 232, 232);
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }
 .pie_pagina{
-    background-color: rgb(232, 232, 232);
+    background-color: rgb(173, 216, 230,0.5);
 }
-#reseña{
+.titulo{
     text-align: center;
-    background-color: rgb(232, 232, 232);
+    background-color: rgb(173, 216, 230,0.5);
+}
+.tabla-principal{
+    margin:auto;
 }
 .tabla{
-    font-style: italic;
+    border: solid 1px black;  
+}
+.enunciado{
+    font-family: "Mr Dafoe", cursive;
     font-weight: 400;
+    font-style: normal;
     border: solid 1px black;
+    text-align: center;
 }
-.nav-link{
-  font-family: "Mr Dafoe", cursive;
-  font-weight: 400;
-  font-style: normal;
+#atm{
+    font-family: "Ms Madi", cursive;
+    font-weight: 400;
+     font-style: normal;
 }
-.nav-link active{
-  font-family: "Mr Dafoe", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
+
+
+
+
+
+
 
