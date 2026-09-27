@@ -1,26 +1,37 @@
 body{
     background-color: whitesmoke;
-    margin: auto;
+    margin: 1%;
+    
 }
-
 .texto{
     text-align: justify;
+    line-height: 1.5;
     margin: 5%;
+    padding: 1%;
 }
-
 .text-body-emphasis{
     background-color: rgb(232, 232, 232);
 }
-
 .pie_pagina{
     background-color: rgb(232, 232, 232);
 }
-
 #reseña{
     text-align: center;
     background-color: rgb(232, 232, 232);
 }
 .tabla{
     font-style: italic;
-    font-weight: 700;
+    font-weight: 400;
+    border: solid 1px black;
 }
+.nav-link{
+  font-family: "Mr Dafoe", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.nav-link active{
+  font-family: "Mr Dafoe", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
