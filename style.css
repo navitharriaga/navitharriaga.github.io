@@ -42,14 +42,12 @@ header{
     font-weight: bold;
 }
 .tabla-principal{
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin: auto;
+    padding: 1px;
+    border: solid 1px rgb(173, 216, 230,1);
 }
 .tab-tam{ 
     width: 250px;
-    margin-left: 100px;
 }
 .enunciado {
   font-family: "Cherry Cream Soda", system-ui;
@@ -91,24 +89,17 @@ header{
      font-style: italic;
 }
 .obrader{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: inherit;
     margin-top: 2%;
-    margin-right: 45%;
+    margin-right: 60%;
     margin-bottom: 2%;
-    text-align: center;
 }
 .obraizq{
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: inherit;
     margin-top: 2%;
-    margin-left: 45%;
+    margin-left: 60%;
     margin-bottom: 2%;
-    text-align: center;
 }
 .img-tam{
-    width: 350px;
-    padding: 1px;
+    width: 250px;
 }
 .subtext{
     text-align: center;
