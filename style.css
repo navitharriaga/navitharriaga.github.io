@@ -10,9 +10,9 @@ header{
 }
 .pie_pagina{
     background-color: rgb(173, 216, 230,0.5);
-    font-family: "Ms Madi", cursive;
-    font-weight: 400;
-    font-style: italic;
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: bold;
+    font-style: normal;
 }
 .titulo{
     text-align: center;
@@ -77,31 +77,35 @@ header{
      font-style: italic;
 }
 .obrader{
+    border: solid 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
     margin-top: 2%;
-    margin-right: 5%;
+    margin-right: 15%;
     margin-bottom: 2%;
     text-align: center;
-    border: solid 1px black;
     background-color:rgb(173, 216, 230,0.3);
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
 }
 .obraizq{
+    border: solid 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
     margin-top: 2%;
-    margin-left: 5%;
+    margin-left: 15%;
     margin-bottom: 2%;
     text-align: center;
-    border: solid 1px black;
     background-color:rgb(173, 216, 230,0.3);
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: italic;
 }
-.enunciado{
-    font-family: "Mr Dafoe", cursive;
-    font-weight: 400;
-    font-style: italic;
-    border: solid 1px black;
-    text-align: center;
+.obra-tam{
+    width: 70%;
+    padding: 1%;
+}
+.enunciado {
+  font-family: "Cherry Cream Soda", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  background-color: rgb(173, 216, 230,0.3);
+  border: solid 1px black;
 }
 .act-img{
     margin-top: 1%;
