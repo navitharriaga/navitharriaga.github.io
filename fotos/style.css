@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(240, 246, 249);
+    margin: 2%;
+}
+header{
+    background-color: rgb(173, 216, 230,0.5);
+}
+.logo{
+    width: 150px;
+}
+.pie_pagina{
+    background-color: rgb(173, 216, 230,0.5);
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: bold;
+    font-style: normal;
+}
+.titulo{
+    text-align: center;
+    background-color: rgb(173, 216, 230,0.5);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ .story{
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:150%;
+  text-align: center;
+}
+.texto{
+    text-align: justify;
+    line-height: 1.5;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    font-style:inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.dilema{
+    text-align: center;
+    font-weight: bold;
+}
+.tabla-principal{
+    margin: auto;
+    padding: 1px;
+    border: solid 1px rgb(173, 216, 230,1);
+}
+.tab-tam{ 
+    width: 250px;
+}
+.enunciado {
+  font-family: "Cherry Cream Soda", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  text-align:center;
+}
+.tablas{
+    line-height: 1.5;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.tab{
+    border: solid 1px black;
+    padding: 3px;
+}
+.tab-1{
+    font-weight:bold;
+    text-align: left;
+    padding: 3px;
+}
+.tab-2{
+    text-align: left;
+    padding: 3px;
+}
+.text-obra{
+    line-height: 1.5;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#atm{
+    font-family: "Ms Madi", cursive;
+    font-weight: 400;
+    font-style: italic;
+    font-size: xx-large;
+}
+.obrader{
+    margin-top: 2%;
+    margin-right: 60%;
+    margin-bottom: 2%;
+}
+.obraizq{
+    margin-top: 2%;
+    margin-left: 60%;
+    margin-bottom: 2%;
+}
+.img-tam{
+    width: 250px;
+}
+.subtext{
+    text-align: center;
+    font-family: "Cherry Cream Soda", system-ui;
+    font-weight: bold;
+    font-style: normal;
+    font-size: large;
+    padding-top: 2px;
+}
+.act{
+    border: solid 1px black;
+    margin: 5%;
+}
+.act-img{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom:3%;
+    margin-right: 5%;
+    width: 200px;
+    border: solid 5px rgb(173, 216, 230);
+}
+
+
